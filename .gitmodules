@@ -1,0 +1,15 @@
+[submodule "maf-apk-builder"]
+	path = maf-apk-builder
+	url = https://github.com/BretTrevor/maf-apk-builder.git
+[submodule "maf-apk-ota-marializa"]
+	path = maf-apk-ota-marializa
+	url = https://github.com/BretTrevor/maf-apk-ota-marializa.git
+[submodule "mafmd-website-flies-maf.rabbi"]
+	path = mafmd-website-flies-maf.rabbi
+	url = https://github.com/BretTrevor/mafmd-website-flies-maf.rabbi.git
+[submodule "root-website-"]
+	path = root-website-
+	url = https://github.com/BretTrevor/root-website-.git
+[submodule "rr-retro-sample-website-"]
+	path = rr-retro-sample-website-
+	url = https://github.com/BretTrevor/rr-retro-sample-website-.git
